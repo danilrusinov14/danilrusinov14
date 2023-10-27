@@ -1,13 +1,10 @@
 ### Привет, я Данил Русинов👋
 ### 🌱 В настоящее время я учусь в Политехе Петра Первого в Санкт-Петербурге
 ### 😄 Я студент ИЭиТа с напрвления "Радиотехника", из группы 4931101/30002
-### Со мной можно связаться в tg:rusya_14, а так же в ВК:@rusya108
 <details>
-    <summary> I'm interested in:</summary><br />
-    🥇Infomatics<br />
-    🥈Physics<br />
-    🥉Mathematics<br />
-    🏅Sports
+    <summary> Со мной можно связаться:</summary><br />
+    ✈️tg:rusya_14<br />
+    👥vk:https://vk.com/rusya108<br />
     </details>
 <!--
 **danilrusinov14/danilrusinov14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
